@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Java, Flutter, React Native, MERN Stack, Wireshark on SEEDLABS.<br>Getting in Java with strong OOPS concepts and now getting into the advance Java for exploring the concepts for Servlet, JSP, JSDC<br>Learning Flutter and React Native for Mobile Application Development.<br>Implementing the use of  Jira to get into the Software development lifecycle.<br>Developed 35+ WordPress Website with starting from the Basic Informative site to the Advanced E-Commerce with the multiple payment Integration and custom plugins.<br>Polishing the API development, testing and Integration skills.
+I'm currently working on Java, Flutter, React Native, MERN Stack, Academic Projects on SEEDLABS.<br>Getting in Java with strong OOPS concepts and now getting into the advance Java for exploring the concepts for Servlet, JSP, JSDC<br>Learning Flutter and React Native for Mobile Application Development.<br>Implementing the use of  Jira to get into the Software development lifecycle.<br>Developed 35+ WordPress Website with starting from the Basic Informative site to the Advanced E-Commerce with the multiple payment Integration and custom plugins.<br>Polishing the API development, testing and Integration skills.
 
 
 
