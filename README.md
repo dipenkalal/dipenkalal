@@ -4,7 +4,7 @@ I'm currently working on Java, Flutter, React Native, MERN Stack, Academic Proje
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipen_7466) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipenkalal)  [![Mail](https://img.shields.io/badge/Mail-Me-red)](mailto:kalald@uwindsor.ca)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipen_7466) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipenkalal)  [![Mail](https://img.shields.io/badge/Mail-Me-red)](mailto:dipen55945@gmail.com)
 
 
 # 💻 Tech Stack:
